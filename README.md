@@ -43,4 +43,4 @@
 ## Deliverable
 _Slack to me:_
   - Link to your Github repo.
-  - A list of the git commands you used to add changes to your remote repo.
+  - A list of the git commands you used to add changes from your local repo to your remote repo.
